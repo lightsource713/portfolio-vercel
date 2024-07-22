@@ -1,0 +1,37 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "lint:fix": "next lint --fix",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "dependencies": {
+    "@contenthook/browser": "1.0.0-beta.8",
+    "@sdevs/screen-sizr": "^2.0.0",
+    "axios": "^1.7.2",
+    "contenthook": "^1.1.12",
+    "dotenv": "^16.4.5",
+    "express-handlebars": "^7.1.3",
+    "framer-motion": "^11.2.6",
+    "next": "14.1.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "sharp": "^0.33.4"
+  },
+  "devDependencies": {
+    "@ianvs/prettier-plugin-sort-imports": "^4.2.1",
+    "autoprefixer": "^10.4.19",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "14.1.3",
+    "postcss": "^8.4.38",
+    "prettier": "3.2.5",
+    "prettier-plugin-tailwindcss": "^0.5.14",
+    "tailwindcss": "^3.4.3"
+  }
+}
