@@ -76,7 +76,7 @@ export default function About() {
           </div>
           <div className="mt-10 flex w-full flex-row items-center justify-center gap-2 lg:mt-10 lg:w-1/3 lg:justify-end">
             <Image
-              src="/img/me.png"
+              src="/img/me.jpg"
               width={256}
               height={300}
               alt="DanielSuzuki"
