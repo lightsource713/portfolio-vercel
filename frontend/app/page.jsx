@@ -397,7 +397,7 @@ export default function Home() {
         </div>
         <div className="mt-10 flex w-full flex-row items-center justify-center gap-2 lg:mt-10 lg:w-1/3 lg:justify-end">
           <Image
-            src="/img/Akiyama.png"
+            src="/img/me.png"
             width={256}
             height={256}
             alt="DanielSuzuki"
