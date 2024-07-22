@@ -2,7 +2,7 @@
 
 import React from "react";
 import Image from "next/image";
-import japanFlag from "../public/img/japan-flag.png";
+import usaFlag from "../public/img/usa-flag.png";
 
 export default function Footer() {
   return (
@@ -14,9 +14,9 @@ export default function Footer() {
         <p className="flex items-center justify-center gap-1 text-center">
           Made with ❤️ by DanielSuzuki in{" "}
           <Image
-            src={japanFlag}
+            src={usaFlag}
             placeholder="blur"
-            alt="Germany flag"
+            alt="American flag"
             className="inline h-4 w-6 rounded-sm"
             draggable="false"
           />
