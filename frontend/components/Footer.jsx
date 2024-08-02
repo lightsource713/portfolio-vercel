@@ -12,7 +12,7 @@ export default function Footer() {
           &copy; 2019 - {new Date().getFullYear()} DanielSuzuki
         </p>
         <p className="flex items-center justify-center gap-1 text-center">
-          Made with ❤️ by DanielSuzuki in{" "}
+          Made with ❤️ by DanielSuzuki
 {/*           <Image
             src={usaFlag}
             placeholder="blur"
