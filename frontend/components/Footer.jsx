@@ -13,13 +13,13 @@ export default function Footer() {
         </p>
         <p className="flex items-center justify-center gap-1 text-center">
           Made with ❤️ by DanielSuzuki in{" "}
-          <Image
+{/*           <Image
             src={usaFlag}
             placeholder="blur"
             alt="American flag"
             className="inline h-4 w-6 rounded-sm"
             draggable="false"
-          />
+          /> */}
         </p>
       </footer>
     </>
